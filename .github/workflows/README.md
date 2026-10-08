@@ -1,1 +1,0 @@
-# Playwright JavaScript Learning Project
