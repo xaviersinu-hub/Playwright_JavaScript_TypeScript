@@ -1,6 +1,6 @@
 # Learn JavaScript, TypeScript & Playwright (4x)
 
-![Learn JavaScript, TypeScript & Playwright: chapter by chapter, built for testers] https://github.com/spadmasa/LearnJSTSPlaywright4x/raw/main/assets/images/banner.png
+![Learn JavaScript, TypeScript & Playwright: chapter by chapter, built for testers](https://github.com/spadmasa/LearnJSTSPlaywright4x/raw/main/assets/images/banner.png)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
